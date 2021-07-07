@@ -1,8 +1,9 @@
+learn
 # JavaScript Objects Lab
 
 ## Overview
 
-In this lab, we'll create objects and perform various operations on them. 
+In this lab, we'll create objects and perform various operations on them.
 
 ## Instructions
 
